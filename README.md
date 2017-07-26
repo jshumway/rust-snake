@@ -1,6 +1,6 @@
 snake
 =====
 
-An implementation of the classic snake game, in Rust!
+Playing with a very early version of Rust (back when there were pointer sigils!). No chance of working on modern versions, but you can see what Rust code used to look like.
 
-Requires [rust-sdl](https://github.com/brson/rust-sdl) (which is broken until the new runtime is ready...)
+An implementation of the classic snake game, in Rust!
